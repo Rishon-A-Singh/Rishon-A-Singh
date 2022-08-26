@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishon</h1>
 <h3 align="center">A passionate Backend developer from Bangalore</h3>
 
-- 🌱 I’m currently learning **Java, SQL, HTML, CSS< JavaScript**
+- 🌱 I’m currently learning **Java, SQL, HTML, CSS, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://rishonsportfolio.netlify.app/](https://rishonsportfolio.netlify.app/)
 
