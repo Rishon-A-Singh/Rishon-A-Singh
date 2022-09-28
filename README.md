@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rishon</h1>
-<h3 align="center">A passionate Backend developer from Bangalore</h3>
+<h3 align="center">A passionate Java Backend developer from Bangalore</h3>
 
 - 🌱 I’m currently learning **Java, SQL, HTML, CSS, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://rishonasingh.netlify.app/](https://rishonasingh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rishonsportfolio.netlify.app/](https://rishonsportfolio.netlify.app/)
 
 - 💬 Ask me about **Java, SQL**
 
 - 📫 How to reach me **rishon.singh@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing](https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishon a. singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishon a. singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishon-a-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishon-a-singh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
