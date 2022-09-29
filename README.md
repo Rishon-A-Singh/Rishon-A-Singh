@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rishon</h1>
 <h3 align="center">A passionate Java Backend developer from Bangalore, KA</h3>
 
-- 🌱 I’m currently learning **Java, SQL, HTML, CSS, JavaScript**
+- 🌱 Coding in frameworks is similar to playing with legos that have plumbing, and I love to think of creative and time/space optimised solutions to real world problems. Apart from coding I do fine-art photography, play music and I am interested in architecture and scuba diving.
 
-- 👨‍💻 All of my projects are available at [https://rishonsportfolio.netlify.app/](https://rishonsportfolio.netlify.app/)
-
-- 💬 Ask me about **Java, Spring, SQL**
+- 👨‍💻 My portfolio is available at [https://rishonsportfolio.netlify.app/](https://rishonsportfolio.netlify.app/)
 
 - 📫 How to reach me **rishon.singh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing](https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rishon-a-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishon-a-singh/" height="30" width="40" /></a>
 </p>
