@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://rishonsportfolio.netlify.app/](https://rishonsportfolio.netlify.app/)
 
-- 💬 Ask me about **Java, SQL**
+- 💬 Ask me about **Java, Spring, SQL**
 
 - 📫 How to reach me **rishon.singh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing](https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing)
+- 📄 Know about my experiences <a[https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing](https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing) target="blank"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
