@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rishon.singh@gmail.com**
 
-- 📄 Know about my experiences <a[https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing](https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing) target="blank"/></a>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing](https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
