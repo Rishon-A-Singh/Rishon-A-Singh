@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishon</h1>
 <h3 align="center">A passionate Java Backend developer from Bangalore, KA</h3>
 
-- 🌱 I enjoy coding in frameworks because to me it is similar to playing with legos that have plumbing, and I love to think of creative and time/space optimised solutions to real world problems. Apart from coding I do fine-art photography, play music and I am interested in architecture and scuba diving.
+- 🌱 I enjoy coding in frameworks because to me it is similar to building things with legos that have plumbing, and I love to think of creative and time/space optimised solutions to real world problems. Apart from coding I do fine-art photography, play music and I am interested in architecture and scuba diving.
 
 - 👨‍💻 My portfolio is available at [https://rishonsportfolio.netlify.app/](https://rishonsportfolio.netlify.app/)
 
