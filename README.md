@@ -3,7 +3,7 @@
 
 - 🌱 I enjoy coding in frameworks because to me it is similar to building things with legos that have plumbing, and I love to think of creative and time/space optimised solutions to real world problems. Apart from coding I do fine-art photography, play music and I am interested in architecture and scuba diving.
 
-- 👨‍💻 My portfolio is available at [https://rishonsportfolio.netlify.app/](https://rishonsportfolio.netlify.app/)
+- 👨‍💻 My portfolio is available at (https://rishon-a-singh.github.io/)
 
 - 📫 How to reach me **rishon.singh@gmail.com**
 
