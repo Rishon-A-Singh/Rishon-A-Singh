@@ -3,11 +3,11 @@
 
 - 🌱 I enjoy coding in frameworks because to me it is similar to building things with legos that have plumbing, and I love to think of creative and time/space optimised solutions to real world problems. Apart from coding I do fine-art photography, play music and I am interested in architecture and scuba diving.
 
-- 👨‍💻 My portfolio is available [here](https://rishon-a-singh.github.io)
+- 👨‍💻 My portfolio is [here](https://rishon-a-singh.github.io)
 
 - 📫 Email me at **rishon.singh@gmail.com**
 
-- 📄 My resume [here](https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing)
+- 📄 My resume is [here](https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing)
 
 <h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
