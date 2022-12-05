@@ -5,8 +5,6 @@
 
 - 👨‍💻 My portfolio is [here](https://rishon-a-singh.github.io)
 
-- 📫 Email me at **rishon.singh@gmail.com**
-
 - 📄 My resume is [here](https://drive.google.com/file/d/1SmLEa0j_h2FbvZ7dChz91EQ1h9rJaiMc/view?usp=sharing)
 
 <h3 align="left">Connect with me on Linkedin:</h3>
